@@ -1,9 +1,14 @@
 namespace OrangeHRM.Tests
 {
-    public class Tests
+    public class LoginTests
     {
         [SetUp]
         public void Setup()
+        {
+        }
+
+        [TearDown]
+        public void Teardown()
         {
         }
 
