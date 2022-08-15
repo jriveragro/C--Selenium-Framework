@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM\\OrangeHRM.csproj",
+      "projectUniqueName": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM\\OrangeHRM.csproj",
       "projectName": "OrangeHRM",
-      "projectPath": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM\\OrangeHRM.csproj",
+      "projectPath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM\\OrangeHRM.csproj",
       "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM\\obj\\",
+      "outputPath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",

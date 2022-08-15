@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQ8pU338+eAweLziYSZMedWfYHShp+sXC7RS6NriuvFdFmeHZJKXbKQWfKWTmStUU0+E/Wwyh59ZX4HaedFYwA==",
+  "dgSpecHash": "vDp/LMQeK+vfOUGZBjeHDOziQBpwJDOfJcfuRS+VacAx2NjQF2ns1gDPi1wmHlir/f9sSHirXj2Bm3/s04hQYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM\\OrangeHRM.csproj",
+  "projectFilePath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM\\OrangeHRM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

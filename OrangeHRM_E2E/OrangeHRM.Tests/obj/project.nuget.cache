@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OHHesCpIQ7Ym+0EKxnhfSvf1fh51QUNVx3yMc1/UMxtHnyxkF6TindFmEFlhOyLja/FofOpt7rMGr9Ya2z94uQ==",
+  "dgSpecHash": "hme1k2nQ2xQolTO+IIDLEhTPngw3+2SHYS5FgKxdxbnI3MBE/1xYheyI8MqWvcf+LBvVN++Mwzwrt3mAsRWfmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jesus\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Jesus\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

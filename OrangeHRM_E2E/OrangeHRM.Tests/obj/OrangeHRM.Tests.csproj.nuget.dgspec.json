@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj": {}
+    "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj": {
+    "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj",
         "projectName": "OrangeHRM.Tests",
-        "projectPath": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj",
+        "projectPath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\OrangeHRM.Tests.csproj",
         "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesus\\Dev\\Csharp\\tau\\scripting-to-framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\OrangeHRM.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
