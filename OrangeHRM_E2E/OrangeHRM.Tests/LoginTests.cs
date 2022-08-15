@@ -1,7 +1,11 @@
+using OpenQA.Selenium;
+
 namespace OrangeHRM.Tests
 {
     public class LoginTests
     {
+        IWebDriver driver;
+
         [SetUp]
         public void Setup()
         {
@@ -13,7 +17,7 @@ namespace OrangeHRM.Tests
         }
 
         [Test]
-        public void Test1()
+        public void SuccessfulLogin()
         {
             Assert.Pass();
         }
