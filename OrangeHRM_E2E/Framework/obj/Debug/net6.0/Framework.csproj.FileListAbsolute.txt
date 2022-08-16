@@ -1,0 +1,12 @@
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\bin\Debug\net6.0\Framework.deps.json
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\bin\Debug\net6.0\Framework.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\bin\Debug\net6.0\Framework.pdb
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\Framework.csproj.AssemblyReference.cache
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\Framework.AssemblyInfoInputs.cache
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\Framework.AssemblyInfo.cs
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\Framework.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\refint\Framework.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\Framework.pdb
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\obj\Debug\net6.0\ref\Framework.dll

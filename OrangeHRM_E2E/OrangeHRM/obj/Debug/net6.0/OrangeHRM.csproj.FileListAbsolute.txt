@@ -1,0 +1,15 @@
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\OrangeHRM.deps.json
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\OrangeHRM.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\OrangeHRM.pdb
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\Framework.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\Framework.pdb
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.csproj.AssemblyReference.cache
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.AssemblyInfoInputs.cache
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.AssemblyInfo.cs
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.csproj.CopyComplete
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\refint\OrangeHRM.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.pdb
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\ref\OrangeHRM.dll
