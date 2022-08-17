@@ -8,7 +8,6 @@ namespace OrangeHRM.Tests
 {
     public class LoginTests
     {
-        IWebDriver driver;
 
         [SetUp]
         public void Setup()
