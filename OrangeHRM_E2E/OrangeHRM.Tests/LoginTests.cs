@@ -1,3 +1,4 @@
+using Framework.Wrappers;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using WebDriverManager;
@@ -12,25 +13,23 @@ namespace OrangeHRM.Tests
         [SetUp]
         public void Setup()
         {
-            new DriverManager().SetUpDriver(new ChromeConfig());
-            ChromeOptions options = new ChromeOptions();
-            options.AddArguments("--ignore-certificate-errors");
-            driver = new ChromeDriver(options);
-            driver.Navigate().GoToUrl("https://opensource-demo.orangehrmlive.com/");
+            Driver.Init();
+            Driver.Goto("https://opensource-demo.orangehrmlive.com/");
 
         }
 
         [TearDown]
         public void Teardown()
         {
-            driver.Quit();
+            Driver.Quit();
         }
 
         [Test]
         public void SuccessfulLogin()
         {
-            var loginPage = new LoginPage(driver);
+            var loginPage = new LoginPage();
             loginPage.LogIn("Admin", "admin123");
+            Thread.Sleep(10000);
             Assert.Pass();
         }
     }

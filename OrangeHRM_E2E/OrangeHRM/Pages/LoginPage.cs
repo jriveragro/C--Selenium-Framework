@@ -1,30 +1,32 @@
-﻿using OpenQA.Selenium;
+﻿using Framework.Wrappers;
+using OpenQA.Selenium;
 
 namespace OrangeHRM
 {
     public class LoginPage
     {
-        public static LoginPageMap Map;
-        public LoginPage(IWebDriver driver)
+        private readonly LoginPageElements Elements;
+
+        public  LoginPage()
         {
-            Map = new LoginPageMap(driver);
+            Elements = new LoginPageElements();
         }
 
-        private static void setUserName(string userName)
+        private void setUserName(string userName)
         {
-            Map.userNameInput.Clear();
-            Map.userNameInput.SendKeys(userName);
+            Elements.UserNameInput.Clear();
+            Elements.UserNameInput.SendKeys(userName);
         }
 
-        private static void setPassword(string password)
+        private void setPassword(string password)
         {
-            Map.passwordInput.Clear();
-            Map.passwordInput.SendKeys(password);
+            Elements.PasswordInput.Clear();
+            Elements.PasswordInput.SendKeys(password);
         }
 
-        private static void clickLogin()
+        private void clickLogin()
         {
-            Map.loginButton.Click();
+            Elements.LoginButton.Click();
 
         }
 
@@ -38,17 +40,10 @@ namespace OrangeHRM
 
     }
 
-    public class LoginPageMap
+    public class LoginPageElements
     {
-        IWebDriver _driver;
-
-        public LoginPageMap(IWebDriver driver)
-        {
-            _driver = driver;
-        }
-
-        public IWebElement userNameInput => _driver.FindElement(By.CssSelector("input[id='txtUsername']"));
-        public IWebElement passwordInput => _driver.FindElement(By.CssSelector("input[id='txtPassword']"));
-        public IWebElement loginButton => _driver.FindElement(By.CssSelector("input[id='btnLogin']"));
+        public IWebElement UserNameInput => Driver.FindElement(By.CssSelector("input[name='username']"));
+        public IWebElement PasswordInput => Driver.FindElement(By.CssSelector("input[name='password']"));
+        public IWebElement LoginButton => Driver.FindElement(By.CssSelector("input[type='submit']"));
     }
 }
