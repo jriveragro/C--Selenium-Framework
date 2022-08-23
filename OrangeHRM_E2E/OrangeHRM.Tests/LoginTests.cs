@@ -1,8 +1,5 @@
 using Framework.Wrappers;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using WebDriverManager;
-using WebDriverManager.DriverConfigs.Impl;
+using OrangeHRM.PageObjects;
 
 namespace OrangeHRM.Tests
 {
@@ -13,6 +10,7 @@ namespace OrangeHRM.Tests
         public void Setup()
         {
             Driver.Init();
+            Pages.Init();
             Driver.Goto("https://opensource-demo.orangehrmlive.com/");
 
         }
@@ -26,10 +24,8 @@ namespace OrangeHRM.Tests
         [Test]
         public void SuccessfulLogin()
         {
-            var loginPage = new LoginPage();
-            loginPage.LogIn("Admin", "admin123");
-            Thread.Sleep(10000);
-            Assert.Pass();
+            Pages.Login.LogIn("Admin", "admin123");
+            Assert.That(Pages.Login.IsLoginSuccessful(), Is.True);
         }
     }
 }

@@ -1,9 +1,9 @@
 ﻿using Framework.Wrappers;
 using OpenQA.Selenium;
 
-namespace OrangeHRM
+namespace OrangeHRM.PageObjects
 {
-    public class LoginPage
+    public class LoginPage : PageBase
     {
         private readonly LoginPageElements Elements;
 
@@ -37,13 +37,25 @@ namespace OrangeHRM
             clickLogin();
         }
 
+        public bool IsLoginFormDisplayed()
+        {
+            return Elements.LoginFormDiv.Displayed;
+        }
+
+        public bool IsLoginSuccessful()
+        {
+            return SideNavPage.IsSidePanvelNavDisplayed();
+        }
+
 
     }
 
     public class LoginPageElements
     {
+        public IWebElement LoginFormDiv => Driver.FindElement(By.CssSelector("div[class='orangehrm-login-form']"));
         public IWebElement UserNameInput => Driver.FindElement(By.CssSelector("input[name='username']"));
         public IWebElement PasswordInput => Driver.FindElement(By.CssSelector("input[name='password']"));
-        public IWebElement LoginButton => Driver.FindElement(By.CssSelector("input[type='submit']"));
+        public IWebElement LoginButton => Driver.FindElement(By.CssSelector("button[type='submit']"));
+
     }
 }
