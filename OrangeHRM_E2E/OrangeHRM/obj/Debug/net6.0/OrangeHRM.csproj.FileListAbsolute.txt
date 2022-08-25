@@ -1,8 +1,8 @@
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\OrangeHRM.deps.json
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\OrangeHRM.dll
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\OrangeHRM.pdb
-C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\Framework.dll
-C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\Framework.pdb
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\AssemblyInfo.cs.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\AssemblyInfo.cs.pdb
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.csproj.AssemblyReference.cache
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.AssemblyInfoInputs.cache
