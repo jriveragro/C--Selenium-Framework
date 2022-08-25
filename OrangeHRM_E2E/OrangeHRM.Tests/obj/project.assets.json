@@ -573,7 +573,7 @@
           "lib/netstandard2.1/WebDriverManager.dll": {}
         }
       },
-      "Framework/1.0.0": {
+      "AssemblyInfo.cs/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -583,17 +583,17 @@
           "log4net": "2.0.15"
         },
         "compile": {
-          "bin/placeholder/Framework.dll": {}
+          "bin/placeholder/AssemblyInfo.cs.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Framework.dll": {}
+          "bin/placeholder/AssemblyInfo.cs.dll": {}
         }
       },
       "OrangeHRM/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Framework": "1.0.0"
+          "AssemblyInfo.cs": "1.0.0"
         },
         "compile": {
           "bin/placeholder/OrangeHRM.dll": {}
@@ -1947,7 +1947,7 @@
         "webdrivermanager.nuspec"
       ]
     },
-    "Framework/1.0.0": {
+    "AssemblyInfo.cs/1.0.0": {
       "type": "project",
       "path": "../Framework/Framework.csproj",
       "msbuildProject": "../Framework/Framework.csproj"

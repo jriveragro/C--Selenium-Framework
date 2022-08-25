@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\Framework\\Framework.csproj",
-        "projectName": "Framework",
+        "projectName": "AssemblyInfo.cs",
         "projectPath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\Framework\\Framework.csproj",
         "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jesus\\Dev\\Csharp\\Csharp Selenium Framework\\OrangeHRM_E2E\\Framework\\obj\\",

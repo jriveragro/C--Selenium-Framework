@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Framework/1.0.0": {
+      "AssemblyInfo.cs/1.0.0": {
         "dependencies": {
           "Selenium.Support": "4.4.0",
           "Selenium.WebDriver": "4.4.0",
@@ -14,7 +14,7 @@
           "log4net": "2.0.15"
         },
         "runtime": {
-          "Framework.dll": {}
+          "AssemblyInfo.cs.dll": {}
         }
       },
       "AngleSharp/0.17.1": {
@@ -154,7 +154,7 @@
     }
   },
   "libraries": {
-    "Framework/1.0.0": {
+    "AssemblyInfo.cs/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
