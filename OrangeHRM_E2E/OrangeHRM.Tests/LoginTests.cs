@@ -28,4 +28,4 @@ namespace OrangeHRM.Tests
             Assert.That(Pages.Login.IsLoginSuccessful(), Is.True);
         }
     }
-}
+}       
