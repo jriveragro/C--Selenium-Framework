@@ -107,3 +107,8 @@ C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Test
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\obj\Debug\net6.0\OrangeHRM.Tests.pdb
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\obj\Debug\net6.0\OrangeHRM.Tests.genruntimeconfig.cache
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\obj\Debug\net6.0\ref\OrangeHRM.Tests.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\bin\Debug\net6.0\log4net.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM.Tests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
