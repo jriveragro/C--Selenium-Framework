@@ -51,6 +51,10 @@
             "WebDriverManager": {
               "target": "Package",
               "version": "[2.14.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
             }
           },
           "imports": [
