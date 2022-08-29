@@ -1,3 +1,4 @@
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\bin\Debug\net6.0\AssemblyInfo.cs.dll.config
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\bin\Debug\net6.0\AssemblyInfo.cs.deps.json
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\bin\Debug\net6.0\AssemblyInfo.cs.dll
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\Framework\bin\Debug\net6.0\AssemblyInfo.cs.pdb
