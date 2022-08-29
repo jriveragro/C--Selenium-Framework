@@ -13,3 +13,4 @@ C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\refint\OrangeHRM.dll
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\OrangeHRM.pdb
 C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\obj\Debug\net6.0\ref\OrangeHRM.dll
+C:\Users\Jesus\Dev\Csharp\Csharp Selenium Framework\OrangeHRM_E2E\OrangeHRM\bin\Debug\net6.0\AssemblyInfo.cs.dll.config
